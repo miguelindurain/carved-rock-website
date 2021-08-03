@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Bikes"
+description: "Bikes for all"
 featured_image: ''
 ---
 
