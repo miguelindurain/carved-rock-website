@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Carved Rock Fitness sell the latest rock climbing equipment."
+description: "Bikes"
 featured_image: ''
 ---
 
