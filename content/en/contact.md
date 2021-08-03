@@ -1,5 +1,5 @@
 ---
-title: Full contact
+title: Contact
 featured_image: "/images/header.jpg"
 omit_header_text: true
 description: We'd love to hear from you
